@@ -13,7 +13,11 @@ jobs:
 
       - name: Install and Build
         run: |
-          npm install
-          npm run deploy-storybook -- --ci
-        env:
-           github_token: ${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}
+          npm ci
+          npm run build-storybook
+      
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@3.6.2
+        with:
+          branch: gh-pages
+          folder: storybook-static
