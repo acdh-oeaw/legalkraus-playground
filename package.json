@@ -1,0 +1,81 @@
+{
+  "name": "legalkraus-playground",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook",
+    "deploy-storybook": "storybook-to-ghpages"
+  },
+  "dependencies": {
+    "@vue/cli-plugin-babel": "^4.1.1",
+    "arche-api": "1.2.1",
+    "bootstrap": "^4.5.3",
+    "bootstrap-vue": "^2.21.2",
+    "chokidar": "^3.5.2",
+    "highcharts": "^10.0.0",
+    "highcharts-vue": "^1.4.0",
+    "jspdf": "^2.4.0",
+    "split-html": "^1.1.0",
+    "splitting": "^1.0.6",
+    "vue": "^2.6.14",
+    "vuetify": "^2.5.8",
+    "vuex": "^3.6.2",
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.18.2",
+    "@storybook/addon-actions": "^6.5.5",
+    "@storybook/addon-essentials": "^6.5.5",
+    "@storybook/addon-interactions": "^6.5.5",
+    "@storybook/addon-links": "^6.5.5",
+    "@storybook/builder-webpack4": "^6.5.5",
+    "@storybook/manager-webpack4": "^6.5.5",
+    "@storybook/storybook-deployer": "^2.8.11",
+    "@storybook/testing-library": "^0.0.11",
+    "@storybook/vue": "^6.5.5",
+    "@vue/cli-plugin-eslint": "^4.1.1",
+    "@vue/cli-service": "^4.1.1",
+    "babel-eslint": "^10.1.0",
+    "babel-loader": "^8.2.5",
+    "eslint": "^6.8.0",
+    "eslint-plugin-vue": "^6.2.2",
+    "mark.js": "^8.11.1",
+    "storybook-fetch-addon": "^1.2.1",
+    "vue-router": "^3.5.2",
+    "vue-template-compiler": "^2.6.14"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "rules": {},
+    "parserOptions": {
+      "parser": "babel-eslint"
+    }
+  },
+  "postcss": {
+    "plugins": {
+      "autoprefixer": {}
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ],
+  "keywords": [
+    "vue",
+    "vuejs",
+    "starter"
+  ],
+  "description": "Storybook playground for project partners"
+}

@@ -1,0 +1,12 @@
+
+ .highcharts-plot-background {
+   fill: #eeedeb;
+ }
+
+ .highcharts-fixed {
+   /*max-width:100%;*/
+ }
+
+ .highcharts-yaxis, .highcharts-axis-line {
+  display:none;
+ }
