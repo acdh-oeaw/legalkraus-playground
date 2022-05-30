@@ -15,5 +15,5 @@ jobs:
         run: |
           npm install
           npm run deploy-storybook -- --ci
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+        env:
+           github_token: ${{ secrets.GITHUB_TOKEN }}
