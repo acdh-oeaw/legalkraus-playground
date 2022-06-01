@@ -99,7 +99,7 @@ GanttTimeline.args = {
   ,
   chartCallback(chart) {
     console.log(startDate, endDate)
-    let chartWidth = 40 * chart.series[0].data.length / 8;
+    let chartWidth = 30 * chart.series[0].data.length / 8;
     let chartHeight = 15 * (
       endDate.getMonth() -
       startDate.getMonth() + 12 * (endDate.getFullYear() - startDate.getFullYear()))
