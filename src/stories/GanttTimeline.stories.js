@@ -55,10 +55,13 @@ GanttTimeline.args = {
       },
       useHTML: true,
       headerFormat: '<div>',
-      pointFormat: '<span style="font-weight:bold">{point.name}</span><br/>' +
-        '<span>{point.start:%A, %e. %B %Y}</span><br/>' +
-        '<span>{point.end:%A, %e. %B %Y}</span><br/>' +
-        '<span>{point.docs_count} Dokumente</span><br/>',
+      pointFormatter: function()  { 
+        let end = this.startendidentical === true ? this.start : this.end;
+        return `<span style="font-weight:bold">${this.name}</span><br/>
+        <span>${Highcharts.dateFormat('%A, %e. %B %Y',this.start)}</span><br/>
+        <span>${Highcharts.dateFormat('%A, %e. %B %Y',end)}</span><br/>
+        <span>${this.docs_count} Dokumente</span><br/>`
+      },
       footerFormat: '</div>',
     },
     title: {
