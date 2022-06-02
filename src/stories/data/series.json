@@ -7,54 +7,49 @@
           {
             "color": "#C85545",
             "name": "Akte 12 Karl Kraus ca. Die Stunde",
-            "startendidentical": true,
             "start": -1413331200000,
-            "end": -1413165600000,
+            "end": -1397952000000,
             "docs_count": 21,
-            "y": 8
+            "y": 9
         },
           {
               "color": "#C85545",
               "name": "Akte 14 Karl Kraus und Marie Turnowsky ca. Die Stunde",
-              "startendidentical": true,
               "start": -1410393600000,
-              "end": -1410228000000,
+              "end": -1391212800000,
               "docs_count": 20,
               "y": 8
           },
           {
               "color": "#C85545",
               "name": "Akte 16 Karl Kraus ca. Die Stunde",
-              "startendidentical": true,
               "start": -1405814400000,
-              "end": -1405648800000,
+              "end": -1390694400000,
               "docs_count": 13,
-              "y": 8
+              "y": 7
           },
           {
               "color": "#C85545",
               "name": "Akte 17 Karl Kraus ca. Die Stunde",
-              "startendidentical": true,
               "start": -1398988800000,
-              "end": -1399154400000,
+              "end": -1394236800000,
               "docs_count": 11,
-              "y": 8
+              "y": 6
           },
           {
               "color": "#C85545",
               "name": "Akte 18 Karl Kraus ca. Die Stunde",
-              "startendidentical": true,
               "start": -1397174400000,
-              "end": -1397340000000,
+              "end": -1390435200000,
               "docs_count": 10,
-              "y": 8
+              "y": 5
           },
           {
               "color": "#C85545",
               "name": "Akte 24 Karl Kraus ca. Die Stunde",
               "startendidentical": true,
               "start": -1355270400000,
-              "end": -1355436000000,
+              "end": -1353542400000,
               "docs_count": 13,
               "y": 8
           },
@@ -69,29 +64,26 @@
           {
               "color": "#C85545",
               "name": "Akte 61 Karl Kraus ca. Arbeiter-Zeitung",
-              "startendidentical": true,
-              "start": -1378252800000,
-              "end": -1378418400000,
+              "start": -1378425600000,
+              "end": -1378252800000,
               "docs_count": 3,
               "y": 8
           },
           {
               "color": "#C85545",
               "name": "Akte 70 Alfred Kerr ca. Karl Kraus",
-              "startendidentical": true,
               "start": -1303862400000,
-              "end": -1304028000000,
+              "end": -1268179200000,
               "docs_count": 64,
               "y": 8
           },
           {
               "color": "#C85545",
               "name": "Akte 78 Karl Kraus ca. Volkskampf",
-              "startendidentical": true,
               "start": -1354579200000,
-              "end": -1354744800000,
+              "end": -1313712000000,
               "docs_count": 31,
-              "y": 8
+              "y": 7
           },
           {
               "color": "#C85545",
@@ -100,23 +92,30 @@
               "start": -1350518400000,
               "end": -1350684000000,
               "docs_count": 5,
-              "y": 8
+              "y": 6
           },
+          {
+            "color": "#C85545",
+            "name": "Akte 85 Karl Kraus ca. Wiener Plakatierungs- und Anzeigengesellschaft (WIPAG)",
+            "start": -1346371200000,
+            "end": -1342915200000,
+            "docs_count": 15,
+            "y": 8
+            },
           {
               "color": "#C85545",
               "name": "Akte 100 Karl Kraus ca. Johann Schober (Polizeipräsident von Wien)",
               "startendidentical": true,
               "start": -1319500800000,
-              "end": -1319666400000,
+              "end": -1309651200000,
               "docs_count": 18,
               "y": 8
           },
           {
               "color": "#C85545",
               "name": "Akte 103 Karl Kraus ca. Fränkischer Kurier",
-              "startendidentical": true,
               "start": -1315612800000,
-              "end": -1315778400000,
+              "end": -1281139200000,
               "docs_count": 59,
               "y": 8
           },
@@ -127,7 +126,7 @@
               "start": -1323129600000,
               "end": -1323295200000,
               "docs_count": 3,
-              "y": 8
+              "y": 6
           },
           {
               "color": "#C85545",
@@ -136,7 +135,7 @@
               "start": -1297814400000,
               "end": -1297980000000,
               "docs_count": 3,
-              "y": 8
+              "y": 7
           },
           {
               "color": "#C85545",
@@ -145,7 +144,7 @@
               "start": -1282176000000,
               "end": -1282341600000,
               "docs_count": 5,
-              "y": 8
+              "y": 7
           },
           {
               "color": "#C85545",
@@ -154,7 +153,7 @@
               "start": -1275177600000,
               "end": -1275343200000,
               "docs_count": 2,
-              "y": 8
+              "y": 7
           },
           {
               "color": "#C85545",
@@ -168,9 +167,8 @@
           {
               "color": "#C85545",
               "name": "Akte 147 Karl Kraus ca. Der Wiener Tag",
-              "startendidentical": true,
               "start": -1233100800000,
-              "end": -1233266400000,
+              "end": -1218153600000,
               "docs_count": 18,
               "y": 8
           },
@@ -186,63 +184,56 @@
           {
               "color": "#C85545",
               "name": "Akte 150 Karl Kraus ca. Kleines Blatt",
-              "startendidentical": true,
               "start": -1233100800000,
-              "end": -1233266400000,
+              "end": -1231200000000,
               "docs_count": 5,
               "y": 6
           },
           {
               "color": "#C85545",
               "name": "Akte 154 Karl Kraus ca. Arbeiter-Zeitung",
-              "startendidentical": true,
               "start": -1228348800000,
-              "end": -1228514400000,
+              "end": -1218758400000,
               "docs_count": 16,
               "y": 8
           },
           {
               "color": "#C85545",
               "name": "Akte 155 Karl Kraus ca. Aussiger Tag",
-              "startendidentical": true,
               "start": -1228348800000,
-              "end": -1228514400000,
+              "end": -1226016000000,
               "docs_count": 4,
               "y": 7
           },
           {
               "color": "#C85545",
               "name": "Akte 167 Lothar Rübelt ca. Karl Kraus",
-              "startendidentical": true,
               "start": -1207008000000,
-              "end": -1207173600000,
+              "end": -1176508800000,
               "docs_count": 25,
               "y": 8
           },
           {
               "color": "#C85545",
               "name": "Akte 169 Legat Martin Schärf",
-              "startendidentical": true,
               "start": -1204934400000,
-              "end": -1205100000000,
+              "end": -1203120000000,
               "docs_count": 4,
               "y": 8
           },
           {
               "color": "#C85545",
               "name": "Akte 170 Karl Kraus ca. Berliner Tageblatt",
-              "startendidentical": true,
               "start": -1203724800000,
-              "end": -1203890400000,
+              "end": -1202428800000,
               "docs_count": 4,
               "y": 8
           },
           {
               "color": "#C85545",
               "name": "Akte 178 Unterlagen zu einem Prozess Anton Kuh ca. Emil Strauss",
-              "startendidentical": true,
               "start": -1185321600000,
-              "end": -1185487200000,
+              "end": -1176422400000,
               "docs_count": 7,
               "y": 8
           },
@@ -251,43 +242,39 @@
               "name": "Akte 181 Karl Kraus ca. Neue Freie Presse",
               "startendidentical": true,
               "start": -1176336000000,
-              "end": -1176501600000,
+              "end": -1176170400000,
               "docs_count": 1,
-              "y": 8
+              "y": 9
           },
           {
               "color": "#C85545",
               "name": "Akte 183 Angelegenheit Peter Lorre (Laszlo Löwenstein)",
-              "startendidentical": true,
               "start": -1156636800000,
-              "end": -1156802400000,
+              "end": -1014249600000,
               "docs_count": 39,
-              "y": 8
+              "y": 10
           },
           {
               "color": "#C85545",
               "name": "Akte 187 Karl Kraus ca. Der Aufruf (Prag)",
-              "startendidentical": true,
               "start": -1141344000000,
-              "end": -1141509600000,
+              "end": -1133827200000,
               "docs_count": 27,
-              "y": 8
+              "y": 9
           },
           {
               "color": "#C85545",
               "name": "Akte 189 Karl Kraus ca. Gegen-Angriff",
-              "startendidentical": true,
-              "start": -1139184000000,
-              "end": -1139349600000,
+              "start": -1139788800000,
+              "end": -1077321600000,
               "docs_count": 134,
-              "y": 8
+              "y": 7
           },
           {
               "color": "#C85545",
               "name": "Akte 190 Karl Kraus ca. Richard Smetana und vice versa",
-              "startendidentical": true,
               "start": -1134777600000,
-              "end": -1134943200000,
+              "end": -1125360000000,
               "docs_count": 26,
               "y": 8
           },
@@ -296,25 +283,23 @@
               "name": "Akte 191 Karl Kraus ca. Volksfreund (Brünn)",
               "startendidentical": true,
               "start": -1125360000000,
-              "end": -1125525600000,
+              "end": -1125194400000,
               "docs_count": 1,
-              "y": 8
+              "y": 6
           },
           {
               "color": "#C85545",
               "name": "Akte 194 Karl Kraus ca. Egon Schwelb",
-              "startendidentical": true,
               "start": -1074902400000,
-              "end": -1075068000000,
+              "end": -1064707200000,
               "docs_count": 9,
               "y": 8
           },
           {
               "color": "#C85545",
               "name": "Akte 199 Darlehensangelegenheit Jahoda & Siegel",
-              "startendidentical": true,
               "start": -1087948800000,
-              "end": -1088114400000,
+              "end": -1079654400000,
               "docs_count": 4,
               "y": 8
           },
@@ -325,13 +310,13 @@
               "start": -1061251200000,
               "end": -1061416800000,
               "docs_count": 2,
-              "y": 8
+              "y": 7
           },
           {
               "color": "#C85545",
               "name": "Akte 72 Korrespondenz mit Hans Loewe",
               "start": -1452124800000,
-              "end": -1452042000000,
+              "end": -1239148800000,
               "docs_count": 28,
               "y": 9
           },
@@ -347,15 +332,15 @@
               "color": "#C85545",
               "name": "Akte 67 Karl Kraus ca. Arbeit und Wirtschaft",
               "start": -1353110400000,
-              "end": -1329523200000,
+              "end": -1328400000000,
               "docs_count": 31,
               "y": 10
           },
           {
               "color": "#C85545",
               "name": "Akte 74 Korrespondenz mit Egon Friedell betr. eines von Anton Kuh unternommenen Plagiatsversuches",
-              "start": -1458864000000,
-              "end": -1381968000000,
+              "start": -1381968000000,
+              "end": -1381449600000,
               "docs_count": 4,
               "y": 10
           },
@@ -363,7 +348,7 @@
               "color": "#C85545",
               "name": "Akte 112 Karl Kraus ca. Theodor Wolff",
               "start": -1328486400000,
-              "end": -1296864000000,
+              "end": -1176768000000,
               "docs_count": 88,
               "y": 10
           },
@@ -378,7 +363,7 @@
           {
               "color": "#C85545",
               "name": "Akte 66 Karl Kraus ca. Arbeit und Wirtschaft",
-              "start": -1356998400000,
+              "start": -1353801600000,
               "end": -1342137600000,
               "docs_count": 21,
               "y": 11
@@ -402,8 +387,9 @@
           {
               "color": "#C85545",
               "name": "Akte 95 Strafanzeige gegen unbekannte Täter wegen gefährlicher Drohung",
-              "start": -1334534400000,
-              "end": -1332288000000,
+              "startendidentical": true,
+              "start": -1332288000000,
+              "end": -1332122400000,
               "docs_count": 3,
               "y": 12
           },
@@ -416,6 +402,14 @@
               "y": 12
           },
           {
+            "color": "#C85545",
+            "name": "Akte 98 Darlehenssache Berthold Viertel",
+            "start": -1443052800000,
+            "end": -1229990400000,
+            "docs_count": 48,
+            "y": 5
+        },
+          {
               "color": "#C85545",
               "name": "Akte 125 Karl Kraus ca. Frankfurter Städtisches Schauspielhaus",
               "start": -1283040000000,
@@ -427,7 +421,7 @@
               "color": "#C85545",
               "name": "Akte 34 Karl Kraus ca. Anton Kuh",
               "start": -1391558400000,
-              "end": -1386720000000,
+              "end": -1333756800000,
               "docs_count": 27,
               "y": 13
           },
@@ -442,7 +436,7 @@
           {
               "color": "#C85545",
               "name": "Akte 63 Postbeschwerde",
-              "start": -1365724800000,
+              "start": -1364860800000,
               "end": -1357171200000,
               "docs_count": 6,
               "y": 13
@@ -491,7 +485,7 @@
               "color": "#C85545",
               "name": "Akte 93 Karl Kraus ca. Wiener Neueste Nachrichten",
               "start": -1334534400000,
-              "end": -1330387200000,
+              "end": -1331424000000,
               "docs_count": 12,
               "y": 14
           },
@@ -515,7 +509,7 @@
               "color": "#C85545",
               "name": "Akte 33 Stefan Padajaunig ca. Karl Kraus",
               "start": -1495065600000,
-              "end": -1386374400000,
+              "end": -1385683200000,
               "docs_count": 10,
               "y": 15
           },
@@ -539,7 +533,7 @@
               "color": "#C85545",
               "name": "Akte 127 Karl Kraus ca. Neue Freie Presse",
               "start": -1282435200000,
-              "end": -1281139200000,
+              "end": -1269561600000,
               "docs_count": 19,
               "y": 15
           },
@@ -547,7 +541,7 @@
               "color": "#C85545",
               "name": "Akte 133 Karl Kraus ca. Erich Schamschula",
               "start": -1280016000000,
-              "end": -1279933200000,
+              "end": -1132876800000,
               "docs_count": 23,
               "y": 15
           },
@@ -562,7 +556,7 @@
           {
               "color": "#C85545",
               "name": "Akte 32 Kronos-Verlag ca. Karl Kraus",
-              "start": -1396483200000,
+              "start": -1403222400000,
               "end": -1386633600000,
               "docs_count": 11,
               "y": 16
@@ -579,7 +573,7 @@
               "color": "#C85545",
               "name": "Akte 76 Korrespondenz mit Richard Flatter",
               "start": -1363996800000,
-              "end": -1082764800000,
+              "end": -1067644800000,
               "docs_count": 15,
               "y": 16
           },
@@ -587,7 +581,7 @@
               "color": "#C85545",
               "name": "Akte 27 Karl Kraus ca. Die Stunde",
               "start": -1360972800000,
-              "end": -1349222400000,
+              "end": -1326412800000,
               "docs_count": 25,
               "y": 17
           },
@@ -651,7 +645,7 @@
               "color": "#C85545",
               "name": "Akte 29 Karl Kraus ca. Richard Weininger",
               "start": -1407628800000,
-              "end": -1385078400000,
+              "end": -1358899200000,
               "docs_count": 25,
               "y": 18
           },
@@ -675,7 +669,7 @@
               "color": "#C85545",
               "name": "Akte 65 Karl Kraus ca. Neues Wiener Journal",
               "start": -1358121600000,
-              "end": -1357084800000,
+              "end": -1356393600000,
               "docs_count": 8,
               "y": 18
           },
@@ -747,15 +741,15 @@
               "color": "#C85545",
               "name": "Akte 168 Karl Kraus ca. Otto Landsberg",
               "start": -1198195200000,
-              "end": -1196294400000,
+              "end": -1187913600000,
               "docs_count": 19,
               "y": 18
           },
           {
               "color": "#C85545",
               "name": "Akte 177 Unterlagen zu einer den Prozess Pisk \u2013 Kraus betreffenden Kontroverse zwischen Emil Franzel und Oskar Pollak",
-              "start": -1191542400000,
-              "end": -1185840000000,
+              "start": -1185840000000,
+              "end": -1177632000000,
               "docs_count": 16,
               "y": 18
           },
@@ -786,7 +780,7 @@
           {
               "color": "#C85545",
               "name": "Akte 31 Hans Liebstöckl ca. Karl Kraus",
-              "start": -1399680000000,
+              "start": -1402790400000,
               "end": -1391212800000,
               "docs_count": 18,
               "y": 19
@@ -802,10 +796,18 @@
           {
               "color": "#C85545",
               "name": "Akte 104 Karl Kraus ca. Neues Wiener Journal",
-              "start": -1317427200000,
-              "end": -1312761600000,
+              "start": -1312761600000,
+              "end": -1311724800000,
               "docs_count": 7,
               "y": 19
+          },
+          {
+            "color": "#C85545",
+            "name": "Akte 106 Karl Kraus ca. Pestrého Týdne",
+            "start": -1308441600000,
+            "end": -1307491200000,
+            "docs_count": 6,
+            "y": 19
           },
           {
               "color": "#C85545",
@@ -923,7 +925,7 @@
               "color": "#C85545",
               "name": "Akte 149 Karl Kraus ca. Neues Wiener Journal",
               "start": -1233100800000,
-              "end": -1231113600000,
+              "end": -1231459200000,
               "docs_count": 5,
               "y": 20
           },
@@ -939,7 +941,7 @@
               "color": "#C85545",
               "name": "Akte 164 Karl Kraus ca. Berliner Tageblatt",
               "start": -1213920000000,
-              "end": -1213837200000,
+              "end": -1210377600000,
               "docs_count": 9,
               "y": 20
           },
@@ -955,7 +957,7 @@
               "color": "#C85545",
               "name": "Akte 196 Karl Kraus ca. Arbeiter-Zeitung (Brünn)",
               "start": -1110585600000,
-              "end": -1110502800000,
+              "end": -1004400000000,
               "docs_count": 198,
               "y": 20
           },
@@ -965,23 +967,31 @@
               "start": -1059264000000,
               "end": -1053561600000,
               "docs_count": 4,
-              "y": 20
+              "y": 19
           },
           {
               "color": "#C85545",
               "name": "Akte 173 Briefwechsel zwischen dem Verlag Die Fackel, dem Verlag Universal Edition und dem Deutschen Theater Prag bezüglich Aufführungen von Offenbachstücken in der Kraus\u2019schen Bearbeitung und Verlagsproblemen",
               "start": -1198713600000,
-              "end": -1190160000000,
+              "end": -1186185600000,
               "docs_count": 56,
               "y": 20
           },
           {
+            "color": "#C85545",
+            "name": "Akte 197 Karl Kraus ca. Zeitschau",
+            "start": -1112486400000,
+            "end": -1107216000000,
+            "docs_count": 3,
+            "y": 19
+            },
+          {
               "color": "#C85545",
               "name": "Akte 198 Korrespondenz Samek \u2013 Kleinkunstbühne Stachelbeere",
-              "start": -1089417600000,
-              "end": -1059955200000,
+              "start": -1091577600000,
+              "end": -1089417600000,
               "docs_count": 4,
-              "y": 20
+              "y": 19
           },
           {
               "color": "#C85545",
@@ -1003,7 +1013,7 @@
               "color": "#C85545",
               "name": "Akte 19 Karl Kraus ca. Fritz Kaufmann und Anton Kuh",
               "start": -1395619200000,
-              "end": -1395536400000,
+              "end": -1358294400000,
               "docs_count": 45,
               "y": 21
           },
@@ -1035,7 +1045,7 @@
               "color": "#C85545",
               "name": "Akte 42 Diverse Korrespondenzen betr. Emmerich Békessy",
               "start": -1349136000000,
-              "end": -1349053200000,
+              "end": -1309824000000,
               "docs_count": 14,
               "y": 21
           },
@@ -1051,7 +1061,7 @@
               "color": "#C85545",
               "name": "Akte 86 Karl Kraus ca. Rote Fahne und Neues Wiener Journal",
               "start": -1345593600000,
-              "end": -1345248000000,
+              "end": -1344470400000,
               "docs_count": 4,
               "y": 21
           },
@@ -1059,14 +1069,14 @@
               "color": "#C85545",
               "name": "Akte 88 Karl Kraus ca. Arbeiter-Zeitung",
               "start": -1342396800000,
-              "end": -1303171200000,
+              "end": -1334793600000,
               "docs_count": 21,
               "y": 21
           },
           {
               "color": "#C85545",
               "name": "Akte 119 Karl Kraus ca. Neues Wiener Journal",
-              "start": -1291766400000,
+              "start": -1291939200000,
               "end": -1290038400000,
               "docs_count": 6,
               "y": 21
@@ -1075,7 +1085,7 @@
               "color": "#C85545",
               "name": "Akte 123 Karl Kraus ca. Fränkischer Kurier",
               "start": -1284076800000,
-              "end": -1283994000000,
+              "end": -1280966400000,
               "docs_count": 9,
               "y": 21
           },
@@ -1091,7 +1101,7 @@
               "color": "#C85545",
               "name": "Akte 144 Karl Kraus ca. S. Fischer Verlag (Berlin)",
               "start": -1254873600000,
-              "end": -1254790800000,
+              "end": -1197158400000,
               "docs_count": 71,
               "y": 21
           },
@@ -1099,7 +1109,7 @@
               "color": "#C85545",
               "name": "Akte 151 Karl Kraus ca. Die Neue Truppe (Berlin)",
               "start": -1232755200000,
-              "end": -1229990400000,
+              "end": -1230681600000,
               "docs_count": 11,
               "y": 21
           },
@@ -1107,7 +1117,7 @@
               "color": "#C85545",
               "name": "Akte 153 Karl Kraus ca. Tempo",
               "start": -1228608000000,
-              "end": -1228525200000,
+              "end": -1228262400000,
               "docs_count": 3,
               "y": 21
           },
@@ -1115,7 +1125,7 @@
               "color": "#C85545",
               "name": "Akte 158 Karl Kraus ca. Oper am Platz der Republik (Kroll-Oper, Berlin)",
               "start": -1223078400000,
-              "end": -1222995600000,
+              "end": -1188086400000,
               "docs_count": 37,
               "y": 21
           },
@@ -1154,7 +1164,7 @@
           {
               "color": "#C85545",
               "name": "Akte 6 Karl Kraus ca. Reichspost",
-              "start": -1479254400000,
+              "start": -1479427200000,
               "end": -1470441600000,
               "docs_count": 9,
               "y": 22
@@ -1179,7 +1189,7 @@
               "color": "#C85545",
               "name": "Akte 13 Karl Kraus und Marie Turnowsky ca. Die Stunde",
               "start": -1411430400000,
-              "end": -1411347600000,
+              "end": -1377907200000,
               "docs_count": 22,
               "y": 22
           },
@@ -1202,8 +1212,9 @@
           {
               "color": "#C85545",
               "name": "Akte 81 Karl Kraus ca. Neues Wiener Journal",
+              "startendidentical": true,
               "start": -1350604800000,
-              "end": -1350522000000,
+              "end": -1350439200000,
               "docs_count": 4,
               "y": 22
           },
@@ -1234,8 +1245,8 @@
           {
               "color": "#C85545",
               "name": "Akte 101 Anzeige gegen die Fackel-Kolporteure",
-              "start": -1306454400000,
-              "end": -1306195200000,
+              "start": -1306195200000,
+              "end": -1276992000000,
               "docs_count": 40,
               "y": 22
           },
@@ -1251,7 +1262,7 @@
               "color": "#C85545",
               "name": "Akte 105 Karl Kraus ca. Prágai Magyar Hirlap",
               "start": -1314748800000,
-              "end": -1312588800000,
+              "end": -1313366400000,
               "docs_count": 4,
               "y": 22
           },
@@ -1267,7 +1278,7 @@
               "color": "#C85545",
               "name": "Akte 113 Karl Kraus ca. Verlag Rudolf Mosse",
               "start": -1301875200000,
-              "end": -1301792400000,
+              "end": -1267228800000,
               "docs_count": 14,
               "y": 22
           },
@@ -1290,10 +1301,11 @@
           {
               "color": "#C85545",
               "name": "Akte 140 Karl Kraus ca. Neues Wiener Journal",
+              "startendidentical": true,
               "start": -1269734400000,
-              "end": -1269651600000,
+              "end": -1269568800000,
               "docs_count": 3,
-              "y": 22
+              "y": 19
           },
           {
               "color": "#C85545",
@@ -1307,7 +1319,7 @@
               "color": "#C85545",
               "name": "Akte 156 Karl Kraus ca. Berliner Börsen Zeitung",
               "start": -1225843200000,
-              "end": -1225760400000,
+              "end": -1221609600000,
               "docs_count": 6,
               "y": 22
           },
@@ -1347,7 +1359,7 @@
               "color": "#C85545",
               "name": "Akte 175 Karl Kraus ca. Wiener Mittags-Zeitung",
               "start": -1195862400000,
-              "end": -1195779600000,
+              "end": -1190678400000,
               "docs_count": 22,
               "y": 22
           },
@@ -1355,15 +1367,15 @@
               "color": "#C85545",
               "name": "Akte 176 Karl Kraus ca. Städtische Bühnen Essen",
               "start": -1193270400000,
-              "end": -1193187600000,
+              "end": -1165881600000,
               "docs_count": 49,
               "y": 22
           },
           {
               "color": "#C85545",
               "name": "Akte 179 Karl Kraus ca. Berliner Tageblatt (Hermann Sinsheimer)",
-              "start": -1183075200000,
-              "end": -1182643200000,
+              "start": -1182643200000,
+              "end": -1181606400000,
               "docs_count": 4,
               "y": 22
           },
@@ -1371,7 +1383,7 @@
               "color": "#C85545",
               "name": "Akte 180 Korrespondenz mit Funkstunde Berlin",
               "start": -1177718400000,
-              "end": -1177635600000,
+              "end": -1174694400000,
               "docs_count": 4,
               "y": 22
           },
@@ -1386,16 +1398,17 @@
           {
               "color": "#C85545",
               "name": "Akte 184 Karl Kraus ca. Wiener Mittagsblatt",
+              "startendidentical": true,
               "start": -1156032000000,
-              "end": -1155949200000,
+              "end": -1155866400000,
               "docs_count": 1,
-              "y": 22
+              "y": 21
           },
           {
               "color": "#C85545",
               "name": "Akte 185 Karl Kraus ca. Österreichisches Abendblatt",
               "start": -1148688000000,
-              "end": -1148605200000,
+              "end": -1131235200000,
               "docs_count": 17,
               "y": 22
           },
@@ -1403,7 +1416,7 @@
               "color": "#C85545",
               "name": "Akte 186 Karl Kraus ca. Österreichisches Abendblatt",
               "start": -1147564800000,
-              "end": -1147482000000,
+              "end": -1124323200000,
               "docs_count": 19,
               "y": 22
           },
@@ -1411,7 +1424,7 @@
               "color": "#C85545",
               "name": "Akte 188 Karl Kraus ca. Altesse A.G.",
               "start": -1139097600000,
-              "end": -1139014800000,
+              "end": -1127433600000,
               "docs_count": 33,
               "y": 22
           },
@@ -1419,14 +1432,14 @@
               "color": "#C85545",
               "name": "Akte 192 Karl Kraus ca. Verlag Melantrich (Prag)",
               "start": -1137196800000,
-              "end": -1093737600000,
+              "end": -1060300800000,
               "docs_count": 72,
               "y": 22
           },
           {
               "color": "#C85545",
               "name": "Akte 195 Karl Kraus ca. Aufruf",
-              "start": -1074902400000,
+              "start": -1115078400000,
               "end": -1036281600000,
               "docs_count": 63,
               "y": 22
@@ -1434,7 +1447,7 @@
           {
               "color": "#C85545",
               "name": "Akte 200 Karl Kraus ca. Edmund Stoll",
-              "start": -1082678400000,
+              "start": -1083456000000,
               "end": -1082419200000,
               "docs_count": 2,
               "y": 22
@@ -1443,7 +1456,7 @@
               "color": "#C85545",
               "name": "Akte 203 Das Testament von Karl Kraus",
               "start": -1083974400000,
-              "end": -1083891600000,
+              "end": -1053561600000,
               "docs_count": 1,
               "y": 22
           }
